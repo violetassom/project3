@@ -12,5 +12,5 @@
 <img width="1512" alt="스크린샷 2022-01-27 오후 4 47 55" src="https://user-images.githubusercontent.com/83385561/151314278-c10de68f-9f3c-4922-8f5c-bddbee484dbf.png">
 
 # 결과물:
-<img width="1512" alt="스크린샷 2022-01-27 오후 4 47 55" src="https://user-images.githubusercontent.com/83385561/151467742-ea00c46e-8658-4ad9-af7c-9918bcf56d58.JP">
+<img width="1512" alt="결과물" src="https://user-images.githubusercontent.com/83385561/151467742-ea00c46e-8658-4ad9-af7c-9918bcf56d58.JP">
 ![IMG_1265](https://user-images.githubusercontent.com/83385561/151467742-ea00c46e-8658-4ad9-af7c-9918bcf56d58.JPG)
